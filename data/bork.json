@@ -1,0 +1,18 @@
+{
+    "id": 145237532,
+    "name": "Bork",
+    "author": "bubbaboogs",
+    "creators": ["bubbaboogs"],
+    "verifier": "bubbaboogs",
+    "verification": "There is none",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+    {
+            "user": "Kaese34",
+            "link": "no link",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": 129141788,
+    "name": "Shplorkal Divinity",
+    "author": "Kaese34",
+    "creators": ["Kaese34"],
+    "verifier": "peanutbutterAJ",
+    "verification": "There is no proof",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "bubbaboogs",
+            "link": "no link",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Kaese34",
+            "link": "no link",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "sharkboy4809",
+            "link": "no link",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
