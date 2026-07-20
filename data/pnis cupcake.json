@@ -1,0 +1,24 @@
+{
+    "id": 145237532,
+    "name": "pnis cupcake",
+    "author": "Shmeegus",
+    "creators": ["Shmeegus"],
+    "verifier": "Shmeegus",
+    "verification": "There is none",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+   {
+            "user": "Kaese34",
+            "link": "no link",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "bubbaboogs",
+            "link": "no link",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

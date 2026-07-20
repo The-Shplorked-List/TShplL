@@ -1,0 +1,36 @@
+{
+    "id": 129141788,
+    "name": "a",
+    "author": "kaese34",
+    "creators": ["kaese34"],
+    "verifier": "kaese34",
+    "verification": "There is no proof",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+    {
+            "user": "Zettle",
+            "link": "no link",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Shmeegus",
+            "link": "no link",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "adp2011",
+            "link": "no link",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bubbaboogs",
+            "link": "no link",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

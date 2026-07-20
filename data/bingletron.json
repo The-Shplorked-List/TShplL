@@ -1,0 +1,24 @@
+{
+    "id": 130395916,
+    "name": "bingletron",
+    "author": "ambra8613",
+    "creators": ["ambra8613"],
+    "verifier": "Kaese34",
+    "verification": "There is none",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+    {
+            "user": "adp2011",
+            "link": "no link",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bubbaboogs",
+            "link": "no link",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

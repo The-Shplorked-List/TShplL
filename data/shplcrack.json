@@ -1,0 +1,30 @@
+{
+    "id": 129141788,
+    "name": "ShplCRACK",
+    "author": "Kaese34",
+    "creators": ["Kaese34"],
+    "verifier": "kaese34",
+    "verification": "There is no proof",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "Shmeegus",
+            "link": "no link",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "adp2011",
+            "link": "no link",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bubbaboogs",
+            "link": "no link",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
