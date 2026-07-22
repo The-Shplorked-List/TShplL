@@ -5,8 +5,14 @@
     "creators": ["peanutbutterAJ"],
     "verifier": "peanutbutterAJ",
     "verification": "https://medal.tv/games/geometry-dash/clips/mOLbzLm5Bshc1rYE_",
-    "percentToQualify": 100,
+    "percentToQualify": 73,
     "password": "Free To Copy",
     "records": [
+    {
+            "user": "Kaese34",
+            "link": "no link",
+            "percent": 76,
+            "hz": 240
+        }
     ]
 }
