@@ -49,6 +49,12 @@
             "link": "no link",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "PlasmaIsCrazy",
+            "link": "no link",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
