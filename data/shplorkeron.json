@@ -8,5 +8,11 @@
     "percentToQualify": 75,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "FinnIsCrazy",
+            "link": "no link",
+            "percent": 92,
+            "hz": 240
+        }
     ]
 }
