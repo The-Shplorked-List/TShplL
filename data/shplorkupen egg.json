@@ -19,6 +19,12 @@
             "link": "mobile",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "acceden",
+            "link": "none",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
