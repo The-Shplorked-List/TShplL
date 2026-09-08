@@ -1,0 +1,18 @@
+{
+    "id": 145382407,
+    "name": "SHPLORKED spam chall",
+    "author": "PlasmaIsCrazy",
+    "creators": ["PlasmaIsCrazy"],
+    "verifier": "PlasmaIsCrazy",
+    "verification": "There is none",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "raven*",
+            "link": "no link",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
