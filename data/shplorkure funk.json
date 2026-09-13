@@ -5,7 +5,7 @@
     "creators": ["raven*", "bubbaboogs"], 
     "verifier": "bubbaboogs",
     "verification": "There is no proof",
-    "percentToQualify": 62,
+    "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
     ]
